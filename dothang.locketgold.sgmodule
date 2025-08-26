@@ -2,6 +2,7 @@
 #!desc=Mở khoá premium cho ứng dụng Locket Widget
 #!author=Nightmarket Server
 #!version=5
+#!homepage=https://github.com/dothang206/Dothang.Locketgold
 update-url = https://raw.githubusercontent.com/dothang206/Dothang.Locketgold/main/dothang.locketgold.sgmodule
 
 [General]
